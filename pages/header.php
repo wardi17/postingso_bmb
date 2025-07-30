@@ -14,7 +14,7 @@ session_start();
    $kode_cabang = $_SESSION['kode_cabang'];
     $class = $_SESSION['classku'];
 	
-	define('base_url', 'http://localhost/portalresitapi/public');
+define('base_url', 'http://localhost/portalresitapi/public');
  
 define('base_url2', 'http://localhost/bmb/public/postingso/index.php');
 
